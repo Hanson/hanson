@@ -1,4 +1,4 @@
-I am Hanson.
+I am Hanson. 17年开始专注微信/企微微信生态开发，提供多种工具和方案。
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanson&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
